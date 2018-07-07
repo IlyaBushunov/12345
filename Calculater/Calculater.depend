@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-1530965195 source:d:\работа\calculater\main.cpp
+1530968781 source:d:\работа\calculater\main.cpp
 	<iostream>
+	<cmath>
 
