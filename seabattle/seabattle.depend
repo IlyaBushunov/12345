@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1532234404 source:d:\работа\seabattle\main.cpp
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+
